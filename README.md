@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🌍 Olá, mundo! Bem-vindo ao meu perfil do GitHub!
 
-<!--
-**Jhope122/jhope122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu me chamo **Gisele** ! Tenho formação técnica em Recursos Humanos e sou estudante de programação no Programadores do Amanhã, onde tenho desenvolvido habilidades em HTML, CSS, JavaScript, MySQL e Git. Além da parte técnica, venho aprimorando minhas soft skills, como resiliência, determinação, curiosidade, proatividade, inteligência emocional, empatia, autenticidade, criatividade e, principalmente, a capacidade de trabalhar em equipe. Busco unir a sensibilidade do RH com o poder da tecnologia, criando soluções que façam a diferença na vida das pessoas🚀  
 
-Here are some ideas to get you started:
+Atualmente, estou focada em aprender e criar projetos com as seguintes tecnologias:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tecnologias que estou estudando:**
+
+- 🌐 HTML  
+- 🎨 CSS  
+- ⚡ JavaScript  
+- 🗃️ MySQL  
+- 🔧 Git & GitHub
+---
+
+🎯 **Objetivo atual:**  
+Me aprimorar ainda mais e atuar como desenvolvedora front-end, trabalhando também com bancos de dados. 💡
+
+📚 **Aprendizado constante:**  
+Sempre buscando melhorar minhas habilidades 📈
+
+---
+
+## 📫 Vamos nos conectar!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/giselegomesoliveira)
+- 🐱 [GitHub](https://github.com/Jhope122)
+- 📧 E-mail: Giselegomes0100@gmail.com
+
+---
+
+✨ Obrigado por visitar meu perfil! ✨ 
